@@ -44,6 +44,12 @@ results/*.png
 results/*.jpg
 !results/.gitkeep
 
+# Models
+models/saved/*.pkl
+models/huggingface/*.pkl
+!models/saved/.gitkeep
+!models/huggingface/.gitkeep
+
 # OS
 .DS_Store
 Thumbs.db

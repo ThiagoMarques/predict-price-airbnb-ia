@@ -1,0 +1,37 @@
+# Dados
+data/raw/
+data/processed/*.npz
+
+# Modelos
+models/*.pkl
+
+# Resultados temporários
+results/*.txt
+results/*.png
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Ambiente virtual
+venv/
+env/
+ENV/
+
